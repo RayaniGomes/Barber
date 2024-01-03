@@ -1,5 +1,5 @@
 # Barber
- Curso do Sujeito Programador 
+Mini Curso do Sujeito Programador 
 
 # Tecnologias usadas:
 - HTML
